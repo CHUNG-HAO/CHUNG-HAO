@@ -14,5 +14,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris911024&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
 
-chris911024/chris911024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ ✨ special ✨ 
