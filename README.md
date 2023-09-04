@@ -5,7 +5,7 @@
   <p>👀 I’m interested in software engineering</p>
   <p>🌱 I’m currently learning blockchain</p>
   <p>💞️ I’m looking to collaborate on ...</p>
-  <p>📫 How to reach me chunghao777@gmail.com</p>
+  <p>📫 chunghao777@gmail.com</p>
 
   <a href="https://www.instagram.com/_haaaaao24/">
     <img alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
