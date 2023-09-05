@@ -3,7 +3,7 @@
   
   <h1>👋 Hi, I’m @chris911024</h1>
   <p>👀 I’m interested in software engineering</p>
-  <p>🌱 I’m currently learning blockchain</p>
+  <p>🌱 I’m currently learning firmware, cmake and linux kernel </p>
   <p>💞️ I’m looking to collaborate on ...</p>
   <p>📫 chunghao777@gmail.com</p>
 
