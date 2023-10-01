@@ -17,9 +17,6 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chris911024&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<!DOCTYPE html>
-<html>
-<head>
 </head>
 <body>
   <div class="centered">
@@ -31,8 +28,6 @@
       />
     </a>
   </div>
-</body>
-</html>
 
 
   ✨ special ✨
