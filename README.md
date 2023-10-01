@@ -1,7 +1,7 @@
 <div align="center">
   <img width="414" alt="image" src="https://github.com/chris911024/chris911024/assets/67829896/e76b71e1-5ccb-423a-8215-556d35d27050">
   
-  <h1>👋 Hi, I’m @chris911024</h1>
+  <h1>👋 Hi, I’m chris</h1>
   <p>👀 I’m interested in software engineering</p>
   <p>🌱 I’m currently learning firmware, cmake and linux kernel </p>
   <p>💞️ I’m looking to collaborate on ...</p>
