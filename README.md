@@ -30,12 +30,6 @@
         height="180rem"
       />
     </a>
-    <a href="https://github.com/chris911024">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chris911024&layout=compact&hide_border=true&theme=prussian" 
-        height="180rem"
-      />
-    </a>
   </div>
 </body>
 </html>
