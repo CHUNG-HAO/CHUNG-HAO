@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>👋 Hi, I’m chris</h1>
+  <h1>👋 Hi, I’m Chris</h1>
   <p>👀 I’m interested in software engineering</p>
   <p>🌱 I’m currently learning firmware, cmake and linux kernel </p>
   <p>💞️ I’m looking to collaborate on ...</p>
