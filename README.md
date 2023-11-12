@@ -2,7 +2,7 @@
   
   <h1>Chris</h1>
   <p>👀 I’m interested in software engineering</p>
-  <p>🌱 I’m currently learning Cmake and linux kernel </p>
+  <p>🌱 I’m currently learning Cmake and Linux kernel </p>
   <p>💞️ I’m looking to collaborate on ...</p>
   <p>📫 chunghao777@gmail.com</p>
 
