@@ -5,7 +5,6 @@
   </a>
   <br />
   <p>👀 I’m interested in SW and FW</p>
-  <p>📫 chunghao777@gmail.com</p>
   
   <h4 align="center">Languages and tools:</h4>
   <p align="center">
@@ -41,7 +40,7 @@
     </a>
   </div>
 
-
+<p>📫 chunghao777@gmail.com</p>
   ✨ special ✨
 </div>
 
