@@ -1,15 +1,39 @@
 <div align="center">
   
   <h1>Chris</h1>
-  <p>👀 I’m interested in software engineering</p>
-  <p>🌱 I’m currently learning Cmake and Linux kernel </p>
-  <p>💞️ I’m looking to collaborate on ...</p>
+  <p>👀 I’m interested in SW and FW</p>
   <p>📫 chunghao777@gmail.com</p>
+  
+  <h4 align="center">Languages:</h4>
+  <p align="center">
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <br>
+    <h4 aling="center">Tools:</h4>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://www.svgrepo.com/show/353400/apache.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="javascript" width="40" height="40"/> </a>
+        <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="javascript" width="40" height="40"/> </a>
+    
+  <br>
+  <h4 align="center">OS:</h4>
+  <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Made_with_Linux_orange.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://www.svgrepo.com/show/349487/raspberry-pi.svg" alt="javascript" width="40" height="40"/> </a>
+  
+  <h4 align="center">Currently learning:</h4>
+  <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Gartoon_filesystems_shellscript.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="javascript" width="40" height="40"/> </a>
+  <br>    
 
+
+    
   <a href="https://www.instagram.com/_haaaaao24/">
     <img alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
-
   <br />
 
   ![](https://komarev.com/ghpvc/?username=CHUNG-HAO)
