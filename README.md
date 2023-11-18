@@ -1,9 +1,5 @@
 <div align="center">
   
-  <h1>Chris</h1><a href="https://www.instagram.com/_haaaaao24/">
-    <img alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-  <br />
   <p>👀 I’m interested in SW and FW</p>
   
   <h4 align="center">Languages and tools:</h4>
