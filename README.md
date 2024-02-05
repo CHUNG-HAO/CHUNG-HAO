@@ -1,6 +1,6 @@
 <div align="center">
   
-  <p>👀 I’m interested in SW and FW  </p>
+  <p>👀  I’m interested in SW and FW  </p>
   
   <h4 align="center">Languages and tools:</h4>
   <p align="center">
