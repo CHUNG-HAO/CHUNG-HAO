@@ -1,5 +1,5 @@
 <div align="center">
-  
+
    ![董子瑄](https://github.com/CHUNG-HAO/CHUNG-HAO/assets/67829896/02ec1a8b-25f8-45d3-bc51-c0bdf7775d26)
    
   <p>👀  I’m interested in SW and FW   </p>
@@ -35,4 +35,7 @@
   
 <p>📫 chunghao777@gmail.com</p>
   ✨ special ✨
+    
+  ![game-changer-game-changers](https://github.com/CHUNG-HAO/CHUNG-HAO/assets/67829896/82c877a3-0e47-4981-b010-a42c66e050b5)
+  
 </div>
