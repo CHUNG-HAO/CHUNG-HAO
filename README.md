@@ -34,7 +34,7 @@
   <img alt="CHUNG-HAO's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=CHUNG-HAO&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="600" height="300"/>
   
 <p>📫 chunghao777@gmail.com</p>
-  ✨ special ✨
+  ✨ special  ✨
     
   ![game-changer-game-changers](https://github.com/CHUNG-HAO/CHUNG-HAO/assets/67829896/82c877a3-0e47-4981-b010-a42c66e050b5)
   
