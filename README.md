@@ -3,7 +3,7 @@
    ![董子瑄](https://github.com/CHUNG-HAO/CHUNG-HAO/assets/67829896/02ec1a8b-25f8-45d3-bc51-c0bdf7775d26)
    
   <p>👀  I’m interested in SW and FW   </p>
-  
+  <!--
   <h4 align="center">Languages and tools:</h4>
   <p align="center">
     <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="javascript" width="40" height="40"/> </a>
@@ -16,6 +16,7 @@
     <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Made_with_Linux_orange.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://www.svgrepo.com/show/349487/raspberry-pi.svg" alt="javascript" width="40" height="40"/> </a> 
+  --!>
   <!--
   <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Gartoon_filesystems_shellscript.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="javascript" width="40" height="40"/> </a>
