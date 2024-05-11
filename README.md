@@ -3,25 +3,28 @@
    ![董子瑄](https://github.com/CHUNG-HAO/CHUNG-HAO/assets/67829896/02ec1a8b-25f8-45d3-bc51-c0bdf7775d26)
    
   <p>👀  I’m interested in SW and FW   </p>
-  <!--
-  <h4 align="center">Languages and tools:</h4>
-  <p align="center">
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://www.svgrepo.com/show/353400/apache.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Made_with_Linux_orange.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://www.svgrepo.com/show/349487/raspberry-pi.svg" alt="javascript" width="40" height="40"/> </a> 
-  --!>
-  <!--
-  <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Gartoon_filesystems_shellscript.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="" target="_blank" rel="noreferrer"referrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="javascript" width="40" height="40"/> </a>
-  <br>
-  -->
+
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349487/raspberry-pi.svg" alt="raspberry-pi" width="40" height="40"/> </a> 
+</p>
+
 
   ![](https://komarev.com/ghpvc/?username=CHUNG-HAO)
 
